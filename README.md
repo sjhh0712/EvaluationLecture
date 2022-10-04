@@ -42,4 +42,4 @@ Description
 ### 9. 작성한 강의 평가가 등록된것을 볼 수 있다
 -------------------------------------
 ![ELafterRegist](https://user-images.githubusercontent.com/49848867/193249825-cca99400-2a2d-46b4-9875-fac8bf2155a1.PNG) 
-
+</br>
