@@ -78,7 +78,7 @@ Description
 ![ELsort](https://user-images.githubusercontent.com/49848867/193764840-aac77f58-4987-45a4-a82b-ff50aa851c1a.png)
 </br>
 
-### 16. 최신순/추천순 방식으로 정렬
+### 17. 최신순/추천순 방식으로 정렬
 -------------------------------------
 ![ELsortResult](https://user-images.githubusercontent.com/49848867/193764843-31362d4b-dc64-47d6-a345-8a628a933389.PNG)
 </br>
