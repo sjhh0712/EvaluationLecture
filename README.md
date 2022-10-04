@@ -45,7 +45,7 @@
 
 ### 10. 강의 추천
 -------------------------------------
-![ELlike](https://user-images.githubusercontent.com/49848867/193764059-f213ffa1-1a52-4785-bfa0-a5f03cb91959.png)
+![ELlike](https://user-images.githubusercontent.com/49848867/193767138-b55461f9-a53f-432a-b7b2-652955b660a3.png)
 </br>
 
 ### 11. 추천 완료
