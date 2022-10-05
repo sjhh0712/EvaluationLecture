@@ -92,6 +92,15 @@
 %>
 					</div>
 				</li>
+				<%
+	if(userID != null){
+%>
+				<li class="nav-item active">
+					<a class="nav-link"><%= userID %> 님</a>
+				</li>
+<%
+	}
+%>
 			</ul>
 			<form action="./index.jsp" method="get" class="form-inline my-2 my-lg-0">
 				<input type="text" name="search" class="form-control mr-sm-2" type="search" placeholder="내용을 입력하세요." aria-label="Search">
